@@ -16,8 +16,7 @@
 проверяет их и строит красивый HTML-отчёт с топом самых быстрых из них.
 
 <p align="center">
-  <img src="docs/preview_en.png" width="48%" alt="Отчёт (EN)">
-  <img src="docs/preview_ru.png" width="48%" alt="Отчёт (RU)">
+  <img src="docs/preview_ru.png" width="80%" alt="Отчёт">
 </p>
 
 ### Как проверяются мосты
@@ -62,8 +61,7 @@ Parallel **obfs4** bridge scanner for Windows. Downloads a fresh bridge list,
 verifies the bridges and builds a polished HTML report with a top list of the fastest of them.
 
 <p align="center">
-  <img src="docs/preview_en.png" width="48%" alt="Report (EN)">
-  <img src="docs/preview_ru.png" width="48%" alt="Report (RU)">
+  <img src="docs/preview_en.png" width="80%" alt="Report">
 </p>
 
 ### How bridges are verified
